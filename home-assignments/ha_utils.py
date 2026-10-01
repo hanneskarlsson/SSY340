@@ -3,10 +3,6 @@ import os
 import ssl
 import urllib.error
 import urllib.request
-<<<<<<< HEAD
-
-=======
->>>>>>> 20980196a31f28cf03da08dc260addb3d94d4894
 import numpy as np
 
 
